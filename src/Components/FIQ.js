@@ -1,0 +1,10 @@
+const FIQ = () => {
+    return (
+      <div>
+        <h3>Hello Orders</h3>
+      </div>
+    )
+  }
+  
+  export default FIQ
+  
